@@ -2,6 +2,10 @@ site_name: IR Playbooks
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
   palette:
   - scheme: slate
     toggle:
@@ -15,6 +19,23 @@ theme:
       name: Dark Mode
     primary: green
     accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Email:
+    - Phishing: Email/phishing.md
+    - Spoofing: Email/spoofing.md
+    - Spam: Email/spam.md
+  - Malware:
+    - Ransomware: Malware/ransomware.md
+    - Rootkits: Malware/rootkits.md
+    - Trojans: Malware/trojans.md
+  - Defender for Endpoint:
+    - MDE Client Analyzer: Defender for Endpoint/mde-client-analyzer.md
+    - Exclusions: Defender for Endpoint/mde-exclusions.md
+    - Updates: Defender for Endpoint/mde-updates.md
 
 extra:
   social:
