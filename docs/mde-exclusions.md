@@ -3,7 +3,8 @@
 Automatic Exclusions apply to real-time detections only and do not apply to on-demand scans.
 
 These exclusions are described on the following URL:
-https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-server-exclusions-microsoft-defender-antivirus?view=o365-worldwide
+
+<https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-server-exclusions-microsoft-defender-antivirus?view=o365-worldwide>
 
 ---
 

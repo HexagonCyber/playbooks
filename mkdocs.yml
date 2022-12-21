@@ -1,3 +1,24 @@
 site_name: IR Playbooks
+
 theme:
   name: material
+  palette:
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: Light Mode
+    primary: green
+    accent: blue
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Dark Mode
+    primary: green
+    accent: blue
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/matthijs-security
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/matthijs-security
