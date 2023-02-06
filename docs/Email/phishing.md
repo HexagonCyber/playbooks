@@ -1,5 +1,7 @@
 # Phishing
 
+## Investigation
+
 Collect the following artefacts from the email message:
 
 ```
@@ -17,8 +19,9 @@ File SHA256 Hash:
 
 ---
 
+## Response
 
-Email artifact blocking  
+Email artefact blocking:  
 
 ```
 - Subject line  
@@ -28,7 +31,7 @@ Email artifact blocking
 
 ---
 
-Web artifact blocking
+Web artefact blocking:
 
 ```  
 - URL  
@@ -38,7 +41,7 @@ Web artifact blocking
 
 ---
 
-File artifact blocking
+File artefact blocking:
 
 ```  
 - File name  
