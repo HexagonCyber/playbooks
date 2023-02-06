@@ -28,8 +28,9 @@ Email artifact blocking
 
 ---
 
-```
-Web artifact blocking  
+Web artifact blocking
+
+```  
 - URL  
 - Domain  
 - IP  
@@ -37,8 +38,9 @@ Web artifact blocking
 
 ---
 
-```
-File artifact blocking  
+File artifact blocking
+
+```  
 - File name  
 - File hash
 ```
