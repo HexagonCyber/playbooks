@@ -1,5 +1,8 @@
 # Phishing
 
+Collect the following artefacts from the email message:
+
+```
 Sender:  
 Sending Server IP:  
 Reverse DNS:  
@@ -10,23 +13,32 @@ Attachment Name:
 File MD5 Hash:  
 File SHA1 Hash:  
 File SHA256 Hash:  
+```
 
 ---
+
 
 Email artifact blocking  
-- subject line  
-- sending address  
-- sending server IP)  
+
+```
+- Subject line  
+- Sending address  
+- Sending server IP  
+```
 
 ---
 
+```
 Web artifact blocking  
 - URL  
-- domain  
+- Domain  
 - IP  
+```
 
 ---
 
+```
 File artifact blocking  
-- file name  
-- file hash
+- File name  
+- File hash
+```
