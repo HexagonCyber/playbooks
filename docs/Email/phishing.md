@@ -47,3 +47,10 @@ File artefact blocking:
 - File name  
 - File hash
 ```
+
+---
+
+Tools:
+```
+[urlscan.io](https://urlscan.io/)
+[VirusTotal](https://www.virustotal.com/)
